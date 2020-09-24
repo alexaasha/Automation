@@ -1,13 +1,13 @@
 # Automation
 System that implements automation of accounting.
 
-##Problem statement:
+## Problem statement:
 
 There's a company with some staff (no matter big or small) and
  we want to calculate some parameters like surcharge, lunch 
  break duration and experience.
  
-##Details
+## Details
 
 Each employee has a smart-card. This is the device
  that is used for entering and exiting. When an employee 
@@ -25,7 +25,7 @@ There's another database, which can receive
  data from HR department. 
  It is used to update information on the server.
  
-##Composition of the repository:
+## Composition of the repository:
 
 mainLogic package consists of:
 - controller - package with the class that
